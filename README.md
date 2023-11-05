@@ -1,5 +1,5 @@
-![codeReferenceHeader](https://github.com/manningstinson/codereference/assets/104523090/15740047-4cd5-42ca-80b9-f0eee115bb88)
+[react-github-header](https://github.com/manningstinson/codereference/assets/104523090/f10ffac1-e4a6-4d42-99fe-a9d2b077dbcf)
 
-# Web Development Code Reference
-Central repository for code snippets, and helpful scripts
+# React Reference
+Code snippets, components, and scripts for REACT. 
 
