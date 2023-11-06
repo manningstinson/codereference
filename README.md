@@ -1,3 +1,3 @@
-# Web Development Code Reference
-Central repository for code snippets, and helpful scripts
+# CSS
+CSS code snippets, and scripts.
 
