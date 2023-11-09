@@ -1,5 +1,3 @@
-![codeReferenceHeader](https://github.com/manningstinson/codereference/assets/104523090/15740047-4cd5-42ca-80b9-f0eee115bb88)
-
-# Web Development Code Reference
-Central repository for code snippets, and helpful scripts
+# Common Elements (Syntax, Functions, etc.)
+This branch holds common elements, and syntax that is applicable to all languages
 
