@@ -1,2 +1,5 @@
-print ("thank goodness for codespaces");
-print ("this might work, just have to work out the kinks");
+print ("this is a new day")
+name = input("Enter your name: ")
+
+print(f"Hello, {name}! Welcome to Python programming.")
+
