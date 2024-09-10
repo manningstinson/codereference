@@ -1,0 +1,29 @@
+## General Shell Commands
+
+| #  | Command              | Function                               |
+|----|----------------------|----------------------------------------|
+| 1  | `ls`                 | List directory contents                |
+| 2  | `cd`                 | Change directory                       |
+| 3  | `pwd`                | Print working directory                |
+| 4  | `mkdir`              | Create a directory                     |
+| 5  | `rm -rf`             | Remove files or directories            |
+| 6  | `cp`                 | Copy files or directories              |
+| 7  | `mv`                 | Move or rename files or directories    |
+| 8  | `grep`               | Search for a pattern in files          |
+| 9  | `find`               | Search for files in a directory        |
+| 10 | `cat`                | Display file content                   |
+| 11 | `touch`              | Create an empty file or update a file's timestamp |
+| 12 | `chmod`              | Change file permissions                |
+| 13 | `chown`              | Change file owner                      |
+| 14 | `ps`                 | List running processes                 |
+| 15 | `top`                | Real-time process monitoring           |
+| 16 | `kill`               | Terminate a process                    |
+| 17 | `df`                 | Show disk space usage                  |
+| 18 | `du`                 | Estimate file space usage              |
+| 19 | `man`                | Show manual for a command              |
+| 20 | `alias`              | Create shortcuts for commands          |
+| 21 | `curl`               | Transfer data from a URL               |
+| 22 | `wget`               | Download files from the web            |
+| 23 | `history`            | Show command history                   |
+| 24 | `echo`               | Print text to the terminal             |
+| 25 | `ssh`                | Securely log into a remote machine     |
